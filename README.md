@@ -1,5 +1,5 @@
 # 🏠 California House Price Prediction
-https://colab.research.google.com/#scrollTo=lIYdn1woOS1n
+https://colab.research.google.com/drive/1mDI1DDauTnKMvgV4Zv7U5fhafe07p1hx
 
 ## 📌 Project Overview
 This project is a fundamental implementation of **Supervised Machine Learning**. The goal is to predict house prices in California based on economic and demographic factors using the **Linear Regression** algorithm.
